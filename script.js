@@ -89,7 +89,7 @@ updateClockGeo4();
 
 //*************Weather widget sections below**************************************** */
 
-const apiKey = "752a802622ba8d12cd6c6d18438a7291";
+const apiKey = "";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=imperial&q=";
 const weatherIcon1 = document.getElementById("weather-icon1");
 const weatherIcon2 = document.getElementById("weather-icon2");
